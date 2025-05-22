@@ -15,8 +15,15 @@
 //  console.log(conversion3);
 
 
+//  let num4=16;
+//   let conversion4= Null(num4);
+//  console.log(typeof num4);
+//  console.log(conversion4);
+//  console.log(typeof conversion4);
+
+
  let num4=16;
-  let conversion4= Null(num4);
+  let conversion4= Boolean(num4);
  console.log(typeof num4);
  console.log(conversion4);
  console.log(typeof conversion4);
